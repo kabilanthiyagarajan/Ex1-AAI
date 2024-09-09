@@ -1,4 +1,4 @@
-<H3> Name : kabilan T K</H3>
+<H3> Name : kabilan T </H3>
 <H3> Register No : 212222230059</H3>
 <H3> Experiment 1</H3>
 <H3>DATE : 09-09-2024</H3>
